@@ -1,5 +1,5 @@
 const stringLength = (string) => {
-return string.length;
+  return string.length;
 }
 
 module.exports = stringLength;
